@@ -35,9 +35,8 @@ Team Member 1:
  - Womanium Program Enrollment ID: WQ24-IelGwtOV9NlaALb
 
 ### Project Solution:
-_Include a comprehensive summary of all important information about your project solution here._
-All necessary code files and any additional information required to judge your project solution should be included in the repository. 
+Only Tasks 2, 3 and 4 delivered. Please check them, especially Tasks 2 and 4, because I have explained them with a high level of mathematics.
 
 ### Project Presentation Deck:
-_Link a 5min. presentation recording or deck here._
+NA
 
